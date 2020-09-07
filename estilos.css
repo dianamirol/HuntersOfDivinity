@@ -1,0 +1,53 @@
+body {
+    background-color: #191728;
+}
+
+h1 {
+    color: #191728;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 25px;
+    padding-top: 10px;
+    padding-left: 5px;
+    }
+
+p {
+    color: #191728;
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    padding-left: 25px;    
+
+}
+
+a {
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    color: #191728;
+    text-align: center;
+}
+
+
+.col-sm-4{
+    background-image: url(img/backbutton-03.jpg);
+   }
+
+.col-sm-9{
+    background-color: #FEFBE1;
+    border-radius: 8px;
+    border-style: solid;
+    border-color:#191728;
+    ;
+}
+
+.col-sm-3{
+    background-color: #FEFBE1;
+    border-radius: 8px;
+    border-style: solid;
+    border-color:#191728;
+}
+
+.col-sm-12 {
+    background-color: #FEFBE1;
+    border-radius: 8px;
+    border-style: solid;
+    border-color:#191728;
+    }
